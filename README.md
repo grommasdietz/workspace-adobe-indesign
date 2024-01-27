@@ -1,5 +1,5 @@
-# workspace-adobe-indesign
-Workspace for Adobe InDesign
+# Workspace: Adobe InDesign
+Custom workspace for Adobe InDesign extending the default `Typography` workspace.
 
 ## Installation
 
